@@ -1,24 +1,17 @@
-# ebike
+# 电动车管理员系统
 
-## Project setup
-```
-npm install
-```
+## 需求分析
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 列表界面
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- 显示所有的车的信息
+- 筛选特定条件的车
+- 红车有个发消息按钮、其他车禁用
 
-### Lints and fixes files
-```
-npm run lint
-```
+### 审核界面
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 显示所有的请求消息
+- 各个请求的详细界面
+- 处理请求通过和不通过
+
+## 完成进度
